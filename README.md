@@ -71,48 +71,37 @@ const adlildzil = {
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiroizx&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Shiroizx&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## � Contribution Snake Game
+## 🐍 Contribution Snake
 
 <div align="center">
-  
-  <!-- Snake animation that eats your contributions -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiroizx/Shiroizx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shiroizx/Shiroizx/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shiroizx/Shiroizx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiroizx/Shiroizx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shiroizx/Shiroizx/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Shiroizx/Shiroizx/output/github-snake-dark.svg" />
   </picture>
-
 </div>
+
+> ⚠️ **Note:** Snake animation will appear after running the GitHub Action workflow
 
 ---
 
-## � GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiroizx&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiroizx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## � Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiroizx&custom_title=Adlildzil's%20Contribution%20Graph&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎵 Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6C63FF" alt="Spotify Now Playing"/>
-  </a>
 </div>
 
 ---
@@ -133,13 +122,8 @@ const adlildzil = {
 
 <div align="center">
   
-  ### � Profile Views
+  ### 👀 Profile Views
   <img src="https://komarev.com/ghpvc/?username=Shiroizx&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-  
-  ### ☕ Support Me
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
   
 </div>
 
