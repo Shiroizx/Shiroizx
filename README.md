@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```javascript
 const adlildzil = {
@@ -24,16 +24,22 @@ const adlildzil = {
 };
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="left">
+
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 Currently working on **exciting web projects**
 - 🌱 Learning **React, Next.js, TypeScript**
 - 💬 Ask me about **Web Development, JavaScript, React**
 - ⚡ Fun fact: **I turn coffee into code ☕**
 
+<br clear="right"/>
+
+</div>
+
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -61,7 +67,7 @@ const adlildzil = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -78,7 +84,7 @@ const adlildzil = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 <div align="center">
   <picture>
@@ -88,19 +94,33 @@ const adlildzil = {
   </picture>
 </div>
 
-> ⚠️ **Note:** Snake animation will appear after running the GitHub Action workflow
-
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Top Repositories
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiroizx&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  
+<a href="https://github.com/Shiroizx/FreeBuild-CV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=FreeBuild-CV&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/Shiroizx/Portfolio-Adlildzil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Portfolio-Adlildzil&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/Shiroizx/Undangan-Pernikahan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Undangan-Pernikahan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/Shiroizx/Birthday-Greeting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Birthday-Greeting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiroizx&custom_title=Adlildzil's%20Contribution%20Graph&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -108,15 +128,25 @@ const adlildzil = {
 
 ---
 
-## 🤝 Connect With Me
+## 🎵 Spotify Now Playing
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgkp7oyllof55dwc6icfjdo6jy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgkp7oyllof55dwc6icfjdo6jy&redirect=true)
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-adlildzil-arifah-a4263b342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adlzil?igsh=MTloMHZkOXM2a3Z2bA%3D%3D&utm_source=qr)
+  [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.adlzil.engineer)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shikzx27)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adldzl4002@gmail.com)
 
 </div>
 
