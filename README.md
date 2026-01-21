@@ -71,7 +71,9 @@ const adlildzil = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shiroizx&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <a href="https://github.com/Shiroizx">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shiroizx&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
@@ -93,7 +95,9 @@ const adlildzil = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiroizx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shiroizx&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
