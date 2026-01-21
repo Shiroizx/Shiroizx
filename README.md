@@ -96,24 +96,24 @@ const adlildzil = {
 
 ---
 
-## 📌 Top Repositories
+## Top Repositories
 
 <div align="center">
   
-<a href="https://github.com/Shiroizx/FreeBuild-CV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=FreeBuild-CV&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+<a href="https://github.com/Shiroizx/CV-ATS-FRIENDLY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=CV-ATS-FRIENDLY&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
 
-<a href="https://github.com/Shiroizx/Portfolio-Adlildzil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Portfolio-Adlildzil&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+<a href="https://github.com/Shiroizx/Manajemen-Bengkel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Manajemen-Bengkel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
 
-<a href="https://github.com/Shiroizx/Undangan-Pernikahan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Undangan-Pernikahan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+<a href="https://github.com/Shiroizx/Wedding-Invitation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Wedding-Invitation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
 
-<a href="https://github.com/Shiroizx/Birthday-Greeting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Birthday-Greeting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+<a href="https://github.com/Shiroizx/Birthday">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiroizx&repo=Birthday&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
 
 </div>
