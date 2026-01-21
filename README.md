@@ -95,9 +95,7 @@ const adlildzil = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shiroizx&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiroizx&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
