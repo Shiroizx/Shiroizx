@@ -32,6 +32,10 @@ const adlildzil = {
 - 🌱 Learning **React, Next.js, TypeScript, Advanced Editing**
 - 💬 Ask me about **Web Development, Video Editing, Motion Graphics**
 - ⚡ Fun fact: **I turn coffee into code and footage into art ☕🎬**
+- 🎨 Passionate about **UI/UX Design & Visual Storytelling**
+- 🚀 Building **responsive web apps & cinematic content**
+- 🤝 Open to **collaborate on creative projects**
+- 💼 Available for **freelance work & commissions**
 
 <br clear="right"/>
 
@@ -68,8 +72,8 @@ const adlildzil = {
 ### Video Editing & Creative Tools
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -153,8 +157,8 @@ const adlildzil = {
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-adlildzil-arifah-a4263b342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adlzil?igsh=MTloMHZkOXM2a3Z2bA%3D%3D&utm_source=qr)
   [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.adlzil.engineer)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shikzx27)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adldzl4002@gmail.com)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@shikzxnotfound?_r=1&_t=ZS-91piUw7t28Y)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285156693650)
 
 </div>
 
